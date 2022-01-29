@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Preetham](https://www.linkedin.com/in/preetham-b-95a962153).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Ishir](https://www.linkedin.com/in/preetham-b-95a962153).
 
 - 💬 Ask me about [Nodejs](https://nodejs.org/) and [golang](https://golang.org/) and [python](https://www.python.org/)!
 - 📫 How to reach me: `preethamb97@gmail.com`
@@ -46,6 +46,6 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=gotham" alt="preethamb97" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preethamb97&show_icons=true&theme=gotham" alt="coderindia00" />
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/coderindia00/coderindia00/blob/output/github-contribution-grid-snake.svg)
